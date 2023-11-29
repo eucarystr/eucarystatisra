@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: darkolivegreen;
+}
+
+#app {
+    max-width: 400px;
+    margin: auto;
+}
+
+#results {
+    margin-top: 20px;
+}
